@@ -2,10 +2,10 @@
 <img width="540" height="304" alt="HuPUZdx" src="https://github.com/user-attachments/assets/67762e80-4160-49ee-80ad-0fe35bb6728d" />
 
 -----
-## Minhas habilidades:
+## Sobre mim:
 - Desenvolvedor Full-Stack
 - Aprendendo JavaScript e Node.js
-- 
+- Amo livros
 
 ## Projetos de destaque:
 
@@ -23,7 +23,7 @@
 Olá! Estou cursando Ciência da Computação no CEUB e amo desenvolvimento backend.
 
 ## Gostos:
-Meus hobbies favoritos são: ler, jogar videogame e cozinhar. Também amo ver animes e filmes. Gosto de ouvir jazz e minha banda favorita são os "The Ink Spots" 
+Meus hobbies favoritos são: ler, jogar videogame e cozinhar. Também amo ver animes e filmes. Gosto de ouvir jazz e minha banda favorita são os "The Ink Spots".
 
 ## Planos:
 Para o futuro busco uma vaga de emprego onde possa utilizar de minhas habilidade e também produzir sistemas úteis para todos.
